@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'dalmarde'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99E98D5A08124013A492CE8E6C69EF19 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_363B4CE3F6704ED9A50B60615FC2392A }}
           package: .
